@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ElfAlter</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="shortcut icon" href="iconweb.jpg">
+</head>
+<body>
+    <menu>
+        <nav>
+            <img src="logo.png"></a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Destination</a></li>
+                <li><a href="#">Pages &#8964</a>
+                    <ul>
+                        <li><a href="#">Destination Details</a></li>
+                        <li><a href="#">Elements</a></li>
+                    </ul>
+                </li>    
+                <li><a href="#">Blog &#8964</a>
+                    <ul>
+                         <li><a href="#">Blog</a></li>
+                         <li><a href="#">Single-Blog</a></li>
+                    </ul>
+                </li>
+                <li><a href="contact.html">Contact</a></li>
+                <div class="kanan">
+ 
+                        <div class="lagi">
+                            <img src="icontelp.png"></a>
+                        </div>
+    
+                        <div class="no">
+                            <p>0812345678</p>
+                        </div>
+                        <div class="icon">
+                            <img src="iconig.png"></a>
+                            <img src="iconlinkedln.png"></a>
+                            <img src="iconfb.png"></a>
+                        </div>
+    
+                        <div class="search">
+                            <img src="iconsearch.png"></a>
+                         </div>
+                </div>
+            </ul>         
+        </nav>
+    </menu>
+
+    <div class="bg">
+        <h1>BLOG</h1>
+        <p>Pixel Perfect Design with Awesome Contents</p>
+    </div>
+
+</div>
+    <div class="blog">
+        <div class="kiri">
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>
+                    </div>
+                    <div class="jann">
+                        <a href="#">Jan</a>                 
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>                       
+                    </div> 
+                    <div class="jann">   
+                        <a href="#">Jan</a>                      
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>                       
+                    </div>    
+                    <div class="jann">   
+                        <a href="#">Jan</a>                       
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>                     
+                    </div>  
+                    <div class="jann">  
+                        <a href="#">Jan</a>                     
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>                      
+                    </div>  
+                    <div class="jann">   
+                        <a href="#">Jan</a>                    
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="satu">
+                <img src="anjing.jpg">
+                <div class="ilang">
+                    <div class="jan">
+                        <a href="#">15</a>                     
+                    </div> 
+                    <div class="jann">   
+                        <a href="#">Jan</a>                    
+                    </div>
+                </div>
+                <div class="judul">
+                    <a href="#">Google inks pact for new 35-storey office</a>
+                </div>
+                <div class="isi">
+                    <p>That dominion stars lights dominion divide years for fourth have don't stars is that he earth it first without heaven in place seed it second morning saying.</p>
+                </div>
+                <div class="bawah">
+                    <div class="tls">
+                        <a href="#">&#9787; Travel, Livestyle</a>
+                    </div>
+                    <div class="tls">
+                        <p>|</p>
+                    </div>
+                    <div class="tls">
+                        <a href="#">&#9786; 03 comments</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="slide">
+                <a href="#"><</a>
+                <a href="#">1</a>
+                <a href="#">2</a>
+                <a href="#">></a>
+            </div>
+        </div>
+
+        <div class="kanan">
+            <div class="one">
+                <div class="cari">
+                        <input type="search" placeholder="Search Keyword">
+                        <button type="submit">Search</button>
+                </div>
+                <div class="search">
+                    <div class="atur">                   
+                    <a href="#">Search</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="two">
+                <div class="judul">
+                    <div class="bungkus">
+                    <h1>Category</h1>
+                    </div>
+                </div>
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Restaurant Food(37)</a>
+                    </div>
+                </div>
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Travel News(8)</a>
+                    </div>
+                </div>
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Modern Technology(12)</a>
+                    </div>
+                </div>              
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Product(2)</a>
+                    </div>
+                </div>              
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Inspiration(5)</a>
+                    </div>
+                </div>             
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Hollywood(144)</a>
+                    </div>
+                </div>           
+                <div class="list">
+                    <div class="ini">
+                    <a href="#">Health Care(67)</a>
+                    </div>
+                </div>                
+            </div>
+
+            <div class="three">
+                <div class="judul">
+                    <div class="bungkus">
+                    <h1>Recent Post</h1>
+                    </div>
+                </div>
+                <div class="wajah">
+                    <img src="harry.webp">
+                    <div class="cool">
+                        <a href="#">Harry is the best</a>
+                        <p>January 12, 2022</p>
+                    </div>
+                </div>
+                <div class="wajah">
+                    <img src="harry.webp">
+                    <div class="cool">
+                        <a href="#">Harry is the best</a>
+                        <p>January 12, 2022</p>
+                    </div>
+                </div>
+                <div class="wajah">
+                    <img src="harry.webp">
+                    <div class="cool">
+                        <a href="#">Harry is the best</a>
+                        <p>January 12, 2022</p>
+                    </div>
+                </div>
+                <div class="wajah">
+                    <img src="harry.webp">
+                    <div class="cool">
+                        <a href="#">Harry is the best</a>
+                        <p>January 12, 2022</p>
+                    </div>
+                </div>
+             </div>
+
+             <div class="four">
+                <div class="judul">
+                    <div class="bungkus">
+                    <h1>Tag Clouds</h1>
+                    </div>
+                </div>
+                <div class="satu">
+                    <a href="#">Project</a>
+                    <a href="#">Love</a>
+                    <a href="#">Thecnology</a>
+                </div>
+                <div class="satu">
+                    <a href="#">Marvel</a>
+                    <a href="#">Thecnology</a>
+                </div>
+                <div class="satu">
+                    <a href="#">Swing</a>
+                    <a href="#">Earth</a>
+                </div>
+                <div class="satu">
+                    <a href="#">Action</a>
+                </div>
+             </div>
+
+             <div class="five">
+                <div class="judul">
+                    <div class="bungkus">
+                    <h1>Instagram Feeds</h1>
+                    </div>
+                </div>
+                <div class="pembungkus">
+                    <img src="leo.webp"></a>
+                    <img src="leo.webp"></a>
+                    <img src="leo.webp"></a>
+                    <img src="leo.webp"></a>
+                    <img src="leo.webp"></a>
+                    <img src="leo.webp"></a>
+                </div>
+            </div>
+
+            <div class="six">
+                <div class="email">
+                    <input type="text" class="inputText" id="NamaDepan" placeholder= "Enter email" name="">
+            </div>
+
+            <div class="search">
+                <div class="atur">               
+                <a href="#">Subscribe</a>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="bawahsekali">
+            <div class="bwh">
+                <div class="satu1">
+                    <div class="gambar">
+                    <img src="logo.png"></a>
+                    </div>
+                    <div class="alamat">
+                        <p>5th flora, 700/D kings road, green</p>
+                        <p>lane New York-1782</p>
+                        <p>+10 367 826 2567</p>
+                        <a href="#">contact@carpenter.com</a>
+                    </div>
+    
+                    <div class="kecil">
+                        <div class="sosial">
+                            <img src="iconfb.png"></a>
+                        </div>
+                        <div class="sosial">
+                            <img src="icontwit.png"></a>
+                        </div>
+                        <div class="sosial">
+                            <img src="iconlinkedln.png"></a>
+                        </div>
+                        <div class="sosial">
+                            <img src="iconpinterest.png"></a>
+                        </div>
+                        <div class="sosial">
+                            <img src="iconyt.png"></a>
+                        </div>
+                    </div> 
+                </div>
+    
+                <div class="satu1">    
+                    <div class="comp">
+                        <h1>Company</h1>
+                    </div>                
+                    <div class="pric">
+                        <a href="#">Pricing </a>
+                        <a href="#">About </a>
+                        <a href="#">Gallery </a>
+                        <a href="#">Contact </a>
+                    </div> 
+                </div>
+    
+                <div class="satu1">
+                    <div class="pop">
+                        <h1>Popular Destination</h1>
+                        <div class="bungkus">                      
+                        <div class="kiri">
+                            <a href="#">Santorini </a>
+                            <a href="#">Athens </a>
+                            <a href="#">Mykonos </a>
+                            <a href="#">Meteora </a>
+                        </div>
+    
+                        <div class="kanan">
+                            <a href="#">Lindos </a>
+                            <a href="#">Parga</a>
+                            <a href="#">Chania </a>
+                            <a href="#">Kavala </a>
+                        </div>  
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="satu1">
+                    <div class="instagram">
+                        <h1>Instagram</h1>
+                    </div>
+    
+                    <div class="krok">
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>    
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>    
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>  
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>   
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>
+                        <div class="kotak">
+                            <img src="kuceng.jpg"></a>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+    
+            <div class="paling">
+                <p>Copyright &copy; 2022 All rights reserved | This template is made with &hearts; by <a href="#">Nelly</a></p>
+            </div>
+    
+        </div>
+    </footer>
+
+</body>
+</html>
